@@ -1,2 +1,2 @@
-# django
-Meu primeiro projeto com django
+# django-templates
+Atividade arquivos estáticos
